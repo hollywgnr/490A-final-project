@@ -1,3 +1,5 @@
+The full contribution history can be viewed here: https://github.com/Douglas-Silverman/490A-Final-Project/graphs/contributors
+
 "Comparing Classification Methods for Deriving Sentiment from COVID-19 Pandemic Related Tweets"
     by Britney Muth, Douglas Silverman, and Holly Wagner
     CS 490A Natural Language Processing
